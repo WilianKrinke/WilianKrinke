@@ -17,7 +17,7 @@
   <li><strong>HTML Semântico</strong></li>
   <li><strong>CSS</strong></li>
 </ul>
-<p>Sou habilidoso, aprendo rápido e estou a disposição para qualquer dúvida que eu possa responder.</p>
+<p>Aprendo rápido e estou a disposição para qualquer dúvida que eu possa responder.</p>
 <hr/>
 <h1>Hello, I'm Wilian</h1>
 <br/>
@@ -36,4 +36,4 @@
   <li><strong>Semantic HTML</strong></li>
   <li><strong>CSS</strong></li>
 </ul>
-<p>I am skilled, quick learner, and available for any questions I can answer.</p>
+<p>Quick learner, and available for any questions I can answer.</p>
