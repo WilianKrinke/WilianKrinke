@@ -1,7 +1,7 @@
 <h1>Olá, sou o Wilian. </h1>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WilianKrinke)](https://github.com/WilianKrinke)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilian-krinke-a640b7141/)](https://www.linkedin.com/in/wilian-krinke-a640b7141/)
-<br/>
 <p>Sou <strong>desenvolvedor front-end</strong>, cursando análise e desenvolvimento de sistemas na <strong>PUC-PR</strong>, e pretendo me especializar em <strong>cybersegurança</strong> e <strong>learning-machine</strong> também pela PUC-PR.</p>
 <p>Sobre habilidades, tecnologias que uso e linguagens:</p>
 <ul>
