@@ -15,7 +15,7 @@
   <li><strong>Mongodb</strong></li>
   <li><strong>MySQL</strong></li>
 </ul>
-<p>Aprendo rápido e estou a disposição para qualquer dúvida que eu possa responder.</p>
+<p>Sempre disposto a aprender diferentes tecnologias e à esclarecer qualquer dúvida.</p>
 <hr/>
 <h1>Hello, I'm Wilian</h1>
 <br/>
@@ -33,4 +33,4 @@
   <li><strong>Mongodb</strong></li>
   <li><strong>MySQL</strong></li>
 </ul>
-<p>Quick learner, and available for any questions I can answer.</p>
+<p>Always willing to learn different technologies and clarify any doubts.</p>
