@@ -1,6 +1,7 @@
 <h1>Olá, sou o Wilian. </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilian-krinke-a640b7141/)](https://www.linkedin.com/in/wilian-krinke-a640b7141/)
+
 <p>Estudo <strong>desenvolvimento front-end</strong>, cursando análise e desenvolvimento de sistemas na <strong>PUC-PR</strong> e pretendo me especializar em <strong>Cibersegurança</strong> e <strong>Inteligência Artificial,</strong> também pela PUC-PR.</p>
 <p>Sobre habilidades, tecnologias que uso e linguagens:</p>
 
@@ -16,6 +17,8 @@
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" align="center" height="40" width="30"></img><strong> - MongoDB</strong></li>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="40" width="30"></img><strong> - MySQL</strong></li>
 </ul>
+
+![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
 
 <p>Sempre disposto a aprender diferentes tecnologias e à esclarecer qualquer dúvida.</p>
 <hr/>
