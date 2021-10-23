@@ -20,7 +20,7 @@
 
 ![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
 
-<p>Sempre disposto a aprender diferentes tecnologias e à esclarecer qualquer dúvida.</p>
+<p>Sempre disposto a aprender diferentes tecnologias e a esclarecer qualquer dúvida.</p>
 <hr/>
 <h1>Hello, I'm Wilian</h1>
 <br/>
