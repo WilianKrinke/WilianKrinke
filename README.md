@@ -19,7 +19,7 @@
 </ul>
 
 <p><strong>-O que estou estudando hoje?</strong></p>
-<p>R: Matérias da faculdade</p>
+<p>R: Matéria de faculdade. Métodos de Pesquisa e Ordenação em Estruturas de Dados.</p>
 
 ![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
 
