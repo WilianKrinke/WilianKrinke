@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilian-krinke-a640b7141/)](https://www.linkedin.com/in/wilian-krinke-a640b7141/)
 
-<p>Estudo <strong>desenvolvimento front-end</strong>, cursando análise e desenvolvimento de sistemas na <strong>PUC-PR</strong> e pretendo me especializar em <strong>Desenvolvimento Full-Stack, </strong><strong>Cibersegurança</strong> e <strong>Inteligência Artificial,</strong> também pela PUC-PR.</p>
+<p>Sou desenvolvedor front-end, atualmente cursando análise e desenvolvimento de sistemas na <strong>PUC-PR</strong> e pretendo me especializar em <strong>Desenvolvimento Full-Stack, </strong><strong>Cibersegurança</strong> e <strong>Inteligência Artificial.</strong></p>
 <p>Sobre habilidades, tecnologias que usei ou uso:</p>
 
 <ul>
@@ -27,7 +27,7 @@
 <hr/>
 <h1>Hello, I'm Wilian</h1>
 <br/>
-<p>Studying <strong>front-end development</strong>, studying systems analysis and development at <strong>PUC-PR</strong>, and I intend to specialize in <strong>Cybersecurity</strong> and <strong>A.I.</strong> also at PUC-PR.</p>
+<p>I am a front-end developer, currently studying systems analysis and development at PUC-PR and I intend to specialize in Full-Stack Development, Cybersecurity and Artificial Intelligence.</p>
 <p>About skills, technologies I used ou use:</p>
 <ul>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="center" height="40" width="30"></img><strong> - ReactJs</strong></li>
