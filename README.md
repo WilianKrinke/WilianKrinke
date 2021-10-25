@@ -5,8 +5,6 @@
 <p>Estudo <strong>desenvolvimento front-end</strong>, cursando análise e desenvolvimento de sistemas na <strong>PUC-PR</strong> e pretendo me especializar em <strong>Cibersegurança</strong> e <strong>Inteligência Artificial,</strong> também pela PUC-PR.</p>
 <p>Sobre habilidades, tecnologias que usei ou uso:</p>
 
-<p>O que estou estudando hoje? Matéria da faculdade<p>
-
 <ul>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="center" height="40" width="30"></img><strong> - ReactJs</strong></li>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" align="center" height="40" width="30"></img><strong> - Javascript</strong></li>
@@ -19,6 +17,9 @@
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" align="center" height="40" width="30"></img><strong> - MongoDB</strong></li>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="40" width="30"></img><strong> - MySQL</strong></li>
 </ul>
+
+<p>O que estou estudando hoje?<p>
+<span>R: Matéria da faculdade</span>
 
 ![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
 
