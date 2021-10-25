@@ -18,8 +18,8 @@
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="40" width="30"></img><strong> - MySQL</strong></li>
 </ul>
 
-<p>O que estou estudando hoje?<p>
-<span>R: Matéria da faculdade</span>
+<p><strong>-O que estou estudando hoje?</strong></p>
+<p>R: Matérias da faculdade</p>
 
 ![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
 
