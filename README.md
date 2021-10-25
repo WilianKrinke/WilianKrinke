@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilian-krinke-a640b7141/)](https://www.linkedin.com/in/wilian-krinke-a640b7141/)
 
-<p>Estudo <strong>desenvolvimento front-end</strong>, cursando análise e desenvolvimento de sistemas na <strong>PUC-PR</strong> e pretendo me especializar em <strong>Desenvolvimento Full-Stack,</strong><strong>Cibersegurança</strong> e <strong>Inteligência Artificial,</strong> também pela PUC-PR.</p>
+<p>Estudo <strong>desenvolvimento front-end</strong>, cursando análise e desenvolvimento de sistemas na <strong>PUC-PR</strong> e pretendo me especializar em <strong>Desenvolvimento Full-Stack, </strong><strong>Cibersegurança</strong> e <strong>Inteligência Artificial,</strong> também pela PUC-PR.</p>
 <p>Sobre habilidades, tecnologias que usei ou uso:</p>
 
 <ul>
