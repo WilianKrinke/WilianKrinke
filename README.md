@@ -3,7 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilian-krinke-a640b7141/)](https://www.linkedin.com/in/wilian-krinke-a640b7141/)
 
 <p>Sou desenvolvedor front-end, atualmente cursando análise e desenvolvimento de sistemas na <strong>PUC-PR</strong> e pretendo me especializar em <strong>Desenvolvimento Full-Stack, </strong><strong>Cibersegurança</strong> e <strong>Inteligência Artificial.</strong></p>
-<p>Sobre habilidades, tecnologias que usei ou uso:</p>
+<p>Sempre disposto a aprender diferentes tecnologias e a esclarecer qualquer dúvida.</p>
+
+<h2>Sobre habilidades, tecnologias que usei ou uso:</h2>
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="center" height="40" width="30"></img><strong> - ReactJs</strong></li>
@@ -18,13 +20,13 @@
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="40" width="30"></img><strong> - MySQL</strong></li>
 </ul>
 
-<p><strong>-O que estou estudando hoje?</strong></p>
-<p>R: Matérias de faculdade: Métodos de Pesquisa e Ordenação em Estruturas de Dados, Fundamentos da Programação Web e Teologia e Sociedade.</p>
-<p>R: Cursos: Bootcamp DIO - Desenvolvedor React</p>
+<h2><strong>O que estou estudando hoje?</strong></h2>
+<p>Matérias de faculdade: Métodos de Pesquisa e Ordenação em Estruturas de Dados, Fundamentos da Programação Web e Teologia e Sociedade.</p>
+<p>Cursos: Bootcamp DIO - Desenvolvedor React</p>
 
 ![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
 
-<p>Sempre disposto a aprender diferentes tecnologias e a esclarecer qualquer dúvida.</p>
+
 <hr/>
 <h1>Hello, I'm Wilian</h1>
 <br/>
