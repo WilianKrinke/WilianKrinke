@@ -22,7 +22,7 @@
 
 <h2><strong>O que estou estudando hoje?</strong></h2>
 <p>Matérias de faculdade: Métodos de Pesquisa e Ordenação em Estruturas de Dados, Fundamentos da Programação Web e Teologia e Sociedade.</p>
-<p>Faculdade: Fundamentos da Programação Web</p>
+<p>Faculdade: Métodos de Pesquisa e Ordenação em Estruturas de Dados</p>
 
 ![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
 
