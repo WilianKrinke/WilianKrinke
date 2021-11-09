@@ -12,16 +12,18 @@
 <table>
   <tbody>
     <tr>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="center" height="50" width="40"></img><p align="center">React</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" align="center" height="50" width="40"></img><p align="center">Javascript</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" align="center" height="50" width="40"></img><p align="center">HTML5</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" align="center" height="50" width="40"></img><p align="center">CSS3</p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="center" height="50" width="40"></img><p align="center">React Js</p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" align="center" height="50" width="40"></img><p align="center">Node Js</p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" align="center" height="50" width="40"></img><p align="center">Express</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" align="center" height="50" width="40"></img><p align="center">Python</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" align="center" height="50" width="40"></img><p align="center">Java</p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" align="center" height="50" width="40"></img><p align="center">Express</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" align="center" height="50" width="40"></img><p align="center">Firebase</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" align="center" height="50" width="40"></img><p align="center">Mongo DB</p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="50" width="40"></img><p align="center">MySQL</p></td>            
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="50" width="40"></img><p align="center">MySQL</p></td>
+     </tr>
   </tbody>
 </table>
 
@@ -47,16 +49,18 @@
 <table>
   <tbody>
     <tr>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="center" height="50" width="40"></img><p align="center">React</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" align="center" height="50" width="40"></img><p align="center">Javascript</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" align="center" height="50" width="40"></img><p align="center">HTML5</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" align="center" height="50" width="40"></img><p align="center">CSS3</p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="center" height="50" width="40"></img><p align="center">React Js</p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" align="center" height="50" width="40"></img><p align="center">Node Js</p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" align="center" height="50" width="40"></img><p align="center">Express</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" align="center" height="50" width="40"></img><p align="center">Python</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" align="center" height="50" width="40"></img><p align="center">Java</p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" align="center" height="50" width="40"></img><p align="center">Express</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" align="center" height="50" width="40"></img><p align="center">Firebase</p></td>
                 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" align="center" height="50" width="40"></img><p align="center">Mongo DB</p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="50" width="40"></img><p align="center">MySQL</p></td>            
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="50" width="40"></img><p align="center">MySQL</p></td>
+     </tr>
   </tbody>
 </table>
 
