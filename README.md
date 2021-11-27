@@ -32,7 +32,7 @@
 
 <h2><strong>O que estou estudando hoje?</strong></h2>
 <p>Matérias de faculdade: Métodos de Pesquisa e Ordenação em Estruturas de Dados, Fundamentos da Programação Web e Teologia e Sociedade.</p>
-<p>Faculdade: Fundamentos Web</p>
+<p>Curso: Curso Node js</p>
 
 
 
@@ -72,4 +72,4 @@
 
 <h2><strong>What am I studying today?</strong></h2>
 <p>Faculty Subjects: Research Methods and Ordering in Data Structures, Fundamentals of Web Programming and Theology and Society.</p>
-<p>Faculty: Research Methods and Ordering in Data Structures</p>
+<p>Course: Node JS course</p>
