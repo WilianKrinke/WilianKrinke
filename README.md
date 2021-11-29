@@ -32,7 +32,7 @@
 
 <h2><strong>O que estou estudando hoje?</strong></h2>
 <p>Matérias de faculdade: Métodos de Pesquisa e Ordenação em Estruturas de Dados, Fundamentos da Programação Web e Teologia e Sociedade.</p>
-<p>Curso: Curso Node js</p>
+<p>Continuação de Portfólio</p>
 
 
 
