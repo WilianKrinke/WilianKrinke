@@ -1,8 +1,9 @@
-<h1>Olá, sou o Wilian. </h1>
+<h1>Hello Friend!! :grinning:</h1>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilian-krinke-a640b7141/)](https://www.linkedin.com/in/wilian-krinke-a640b7141/)
 
-<p>Sou desenvolvedor front-end, atualmente cursando análise e desenvolvimento de sistemas na <strong>PUC-PR</strong> e pretendo me especializar em <strong>Desenvolvimento Full-Stack, </strong><strong>Cibersegurança</strong> e <strong>Inteligência Artificial.</strong></p>
+<p>Meu Nome é Wilian e sou desenvolvedor front-end, atualmente cursando análise e desenvolvimento de sistemas na <strong>PUC-PR</strong> e pretendo me especializar em <strong>Desenvolvimento Full-Stack, </strong><strong>Cibersegurança</strong> e <strong>Inteligência Artificial.</strong></p>
 <p>Sempre disposto a aprender diferentes tecnologias e a esclarecer qualquer dúvida.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilianKrinke&langs_count=8&theme=dark&layout=compact)](https://github.com/WilianKrinke)
@@ -42,11 +43,11 @@
 
 
 <hr/>
-<h1>Hello, I'm Wilian</h1>
+<h1>Hello Friend!! :grinning:</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilian-krinke-a640b7141/)](https://www.linkedin.com/in/wilian-krinke-a640b7141/)
 
-<p>I am a front-end developer, currently studying systems analysis and development at <strong>PUC-PR</strong> and intend to specialize in <strong>Full-Stack Development, </strong><strong>Cybersecurity</ strong> and <strong>Artificial Intelligence.</strong></p>
+<p>I am Wilian and front-end developer, currently studying systems analysis and development at <strong>PUC-PR</strong> and intend to specialize in <strong>Full-Stack Development, </strong><strong>Cybersecurity</ strong> and <strong>Artificial Intelligence.</strong></p>
 <p>Always willing to learn different technologies and clarify any doubts.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilianKrinke&langs_count=8&theme=dark&layout=compact)](https://github.com/WilianKrinke)
