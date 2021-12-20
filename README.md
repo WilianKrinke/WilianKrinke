@@ -33,4 +33,4 @@
 </table>
 
 <h2><strong>What am I studying today?</strong></h2>
-<p>Building portfolio</p>
+<p>Building portfolio: Library project</p>
