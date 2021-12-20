@@ -5,12 +5,9 @@
 <p>I am Wilian and front-end developer, currently studying systems analysis and development at <strong>PUC-PR</strong> and intend to specialize in <strong>Full-Stack Development, </strong><strong>Cybersecurity</ strong> and <strong>Artificial Intelligence.</strong></p>
 <p>Always willing to learn different technologies and clarify any doubts.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilianKrinke&langs_count=8&theme=dark&layout=compact)](https://github.com/WilianKrinke)
-
-![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
-
 ![Code Is](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif) 
 
+![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilianKrinke&langs_count=8&theme=dark&layout=compact)](https://github.com/WilianKrinke) 
 
 <h2>About skills, technologies I used or use:</h2>
 
@@ -36,5 +33,4 @@
 </table>
 
 <h2><strong>What am I studying today?</strong></h2>
-<p>Faculty Subjects: Research Methods and Ordering in Data Structures, Fundamentals of Web Programming and Theology and Society.</p>
-<p>Course: Node JS course</p>
+<p>Building portfolio</p>
