@@ -7,8 +7,7 @@
 
 ![Code Is](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif) 
 
-![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilianKrinke&langs_count=8&theme=dark&layout=compact)](https://github.com/WilianKrinke) 
-
+![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
 <h2>About skills, technologies I used or use:</h2>
 
 <table>
