@@ -34,4 +34,4 @@
 </table>
 
 <h2><strong>What am I studying today?</strong></h2>
-<p>Building portfolio: Library project</p>
+<p>Specification of Information Systems, Project Management in Computing and Analytical Intelligence in Neobusiness in addition to Bootcamp NodeJs.</p>
