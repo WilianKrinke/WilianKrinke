@@ -34,5 +34,5 @@
 </table>
 
 <h2><strong>What am I studying today?</strong></h2>
-<p>Fundamentals of BigData, Information Systems Projects, and Education, Identity and Solidarity in addition to Bootcamp NodeJs.</p>
+<p>Fundamentals of BigData, Information Systems Projects, and Education, Identity and Solidarity.</p>
 <p>Dedicating yourself to college affairs</p>
