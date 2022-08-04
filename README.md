@@ -34,5 +34,5 @@
 </table>
 
 <h2><strong>What am I studying today?</strong></h2>
-<p>Fundamentals of BigData, Information Systems Projects, and Education, Identity and Solidarity.</p>
+<p>Human Computer Interaction, Internet of Things in a Connected World, Agile Methods in IT.</p>
 <p>Dedicating yourself to college affairs</p>
