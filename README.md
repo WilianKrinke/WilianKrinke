@@ -35,4 +35,4 @@
 
 <h2><strong>What am I studying today?</strong></h2>
 <p>Human Computer Interaction, Internet of Things in a Connected World, Agile Methods in IT.</p>
-<p>Dedicating yourself to college affairs</p>
+<p>Dedicating myself to college affairs.</p>
