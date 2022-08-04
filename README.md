@@ -5,7 +5,9 @@
 <p>I am Wilian and front-end developer, currently studying systems analysis and development at <strong>PUC-PR</strong> and intend to specialize in <strong>Full-Stack Development, </strong><strong>Cybersecurity</ strong> and <strong>Artificial Intelligence.</strong></p>
 <p>Always willing to learn different technologies and clarify any doubts.</p>
 
-![Code Is](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif) 
+<h2><strong>What am I studying today?</strong></h2>
+<p>Human Computer Interaction, Internet of Things in a Connected World, Agile Methods in IT.</p>
+<p>Dedicating myself to college affairs.</p>
 
 ![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
 <h2>About skills, technologies I used or use:</h2>
@@ -32,7 +34,3 @@
     </tr>
   </tbody>
 </table>
-
-<h2><strong>What am I studying today?</strong></h2>
-<p>Human Computer Interaction, Internet of Things in a Connected World, Agile Methods in IT.</p>
-<p>Dedicating myself to college affairs.</p>
