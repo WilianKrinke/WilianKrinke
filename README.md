@@ -6,7 +6,7 @@
 <p>Always willing to learn different technologies and clarify any doubts.</p>
 
 <h2><strong>What am I studying today?</strong></h2>
-<p>Human Computer Interaction, Internet of Things in a Connected World, Agile Methods in IT.</p>
+<p>Fundamentals of Software Engineering and Information Technology Security.</p>
 <p>Dedicating myself to college affairs.</p>
 
 ![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
