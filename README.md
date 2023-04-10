@@ -5,8 +5,8 @@
 <p>I am Wilian and front-end developer, currently studying systems analysis and development at <strong>PUC-PR</strong> and intend to specialize in <strong>Full-Stack Development, </strong><strong>Cybersecurity</ strong> and <strong>Artificial Intelligence.</strong></p>
 <p>Always willing to learn different technologies and clarify any doubts.</p>
 
-<h2><strong>What am I studying today?</strong></h2>
-<p>Fundamentals of Software Engineering and Information Technology Security.</p>
+<h2><strong>What am i studying now?</strong></h2>
+<p>Devops, Secure web systems and web development with Frameworks</p>
 <p>Dedicating myself to college affairs.</p>
 
 ![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
