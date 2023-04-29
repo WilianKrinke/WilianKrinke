@@ -1,5 +1,14 @@
 <h1>:grinning:</h1>
 
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCfZMcVJcvf8UzbVxfk5iEbg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/wilian-krinke-a640b7141/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
 <p align="left">PT-BR<br><h3>Olá, sou o Wilian, sou Analista e Desenvolvedor de Sistemas, ultimamente trabalhando com Desenvolvimento Full-Stack e Cybersegurança.</h3><strong>Estou terminando minha faculdade e estou disponível para trabalhos.<br><br>O que estou estudando agora? <br><br>Computação em nuvem, Desenvolvimento de Aplicativos e Gestão de Serviços de Tecnologia da Informação.</strong><br><br>EN-US<br>Hi, i'm wilian, i'm a Systems Analyst and Developer, lately working with full-stack development and cybersecurity. I'm finishing my college and I'm available for jobs.<br><br>What am I studying now?<br><br>Cloud Computing, Application Development and Information Technology Service Management.<br></p>
 
 <div align="center">
@@ -33,20 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" width="94" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="60" width="94" alt="atom logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" width="94" alt="materialui logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCfZMcVJcvf8UzbVxfk5iEbg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="krinkewilian@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/wilian-krinke-a640b7141/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
