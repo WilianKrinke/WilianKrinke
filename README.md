@@ -1,36 +1,44 @@
-<h1>Hello Friend!! :grinning:</h1>
+<h1>:grinning:</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilian-krinke-a640b7141/)](https://www.linkedin.com/in/wilian-krinke-a640b7141/)
+<p align="left">PT-BR<br>Olá, sou o Wilian, sou Analista e Desenvolvedor de Sistemas, ultimamente trabalhando com desenvolvimento full-stack e Cybersegurança. Estou terminando minha faculdade e estou disponível para trabalhos.<br><br>O que estou estudando agora? <br><br>Computação em nuvem, Desenvolvimento de Aplicativos e Gestão de Serviços de Tecnologia da Informação.<br><br>EN-US<br>Hi, i'm wilian, i'm a Systems Analyst and Developer, lately working with full-stack development and cybersecurity. I'm finishing my college and I'm available for jobs.<br><br>What am I studying now?<br><br>Cloud Computing, Application Development and Information Technology Service Management.<br>Always willing to learn different technologies and clarify any doubts.</p>
 
-<p>I am Wilian and front-end developer, currently studying systems analysis and development at <strong>PUC-PR</strong> and intend to specialize in <strong>Full-Stack Development, </strong><strong>Cybersecurity</ strong> and <strong>Artificial Intelligence.</strong></p>
-<p>Always willing to learn different technologies and clarify any doubts.</p>
+###
 
-<h2><strong>What am i studying now?</strong></h2>
-<p>Cloud Computing, Mobile Device Development and Information Technology Service Management.</p>
-<p>Dedicating myself to college affairs.</p>
+<p align="left">PT-BR<br>Minhas habilidades ou tecnologias que já utilizei:<br><br>EN-US<br>My skills or technologies I've used:</p>
 
-![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
-<h2>About skills, technologies I used or use:</h2>
+###
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" align="center" height="60" width="50"></img><p align="center"><strong>HTML5</strong></p></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" align="center" height="60" width="50"></img><p align="center"><strong>CSS3</strong></p></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" align="center" height="60" width="50"></img><p align="center"><strong>Javascript</strong></p></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" align="center" height="60" width="50"></img><p align="center"><strong>PHP</strong></p></td>
-    </tr>    
-    <tr>         
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="center" height="50" width="50"></img><p align="center"><strong>React</strong></p></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" align="center" height="50" width="50"></img><p align="center"><strong>Node</strong></p></td> 
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" align="center" height="50" width="50"></img><p align="center"><strong>Express</strong> </p></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="50" width="50"></img><p align="center"><strong>MySQL</strong></p></td>
-    </tr>
-    <tr>        
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" align="center" height="50" width="50"></img><p align="center"><strong>Python</strong></p></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" align="center" height="50" width="50"></img><p align="center"><strong>Java</strong></p></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" align="center" height="50" width="50"></img><p align="center"><strong>Firebase</strong> </p></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" align="center" height="50" width="50"></img><p align="center"><strong>Mongo DB</strong> </p></td>                
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="94" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="94" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="94" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="94" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" width="94" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="94" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" width="94" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" width="94" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" width="94" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" width="94" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" width="94" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="94" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" width="94" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" width="94" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="60" width="94" alt="atom logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" width="94" alt="materialui logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCfZMcVJcvf8UzbVxfk5iEbg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="krinkewilian@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/wilian-krinke-a640b7141/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
