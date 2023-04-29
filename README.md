@@ -1,6 +1,14 @@
 <h1>:grinning:</h1>
 
-<p align="left">PT-BR<br>Olá, sou o Wilian, sou Analista e Desenvolvedor de Sistemas, ultimamente trabalhando com desenvolvimento full-stack e Cybersegurança. Estou terminando minha faculdade e estou disponível para trabalhos.<br><br>O que estou estudando agora? <br><br>Computação em nuvem, Desenvolvimento de Aplicativos e Gestão de Serviços de Tecnologia da Informação.<br><br>EN-US<br>Hi, i'm wilian, i'm a Systems Analyst and Developer, lately working with full-stack development and cybersecurity. I'm finishing my college and I'm available for jobs.<br><br>What am I studying now?<br><br>Cloud Computing, Application Development and Information Technology Service Management.<br>Always willing to learn different technologies and clarify any doubts.</p>
+<p align="left">PT-BR<br><h3>Olá, sou o Wilian, sou <strong>Analista e Desenvolvedor de Sistemas</strong>, ultimamente trabalhando com <strong>Desenvolvimento Full-Stack e Cybersegurança.</strong></h3>Estou terminando minha faculdade e estou disponível para trabalhos.<br><br>O que estou estudando agora? <br><br><strong>Computação em nuvem, Desenvolvimento de Aplicativos e Gestão de Serviços de Tecnologia da Informação.</strong><br><br>EN-US<br>Hi, i'm wilian, i'm a Systems Analyst and Developer, lately working with full-stack development and cybersecurity. I'm finishing my college and I'm available for jobs.<br><br>What am I studying now?<br><br>Cloud Computing, Application Development and Information Technology Service Management.<br>Always willing to learn different technologies and clarify any doubts.</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WilianKrinke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="230" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilianKrinke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="230" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=WilianKrinke&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+</div>
+
+###
 
 ###
 
