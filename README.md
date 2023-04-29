@@ -6,31 +6,31 @@
 <p>Always willing to learn different technologies and clarify any doubts.</p>
 
 <h2><strong>What am i studying now?</strong></h2>
-<p>Devops, Secure web systems and web development with Frameworks</p>
+<p>Cloud Computing, Mobile Device Development and Information Technology Service Management.</p>
 <p>Dedicating myself to college affairs.</p>
 
 ![Wilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianKrinke&show_icons=true&theme=dark)
 <h2>About skills, technologies I used or use:</h2>
 
-<table align="center" width="100">
+<table align="center">
   <tbody>
     <tr>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" align="center" height="50" width="40"></img><p align="center"><strong>HTML5</strong></p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" align="center" height="50" width="40"></img><p align="center"><strong>CSS3</strong></p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" align="center" height="50" width="40"></img><p align="center"><strong>Javascript</strong></p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" align="center" height="50" width="40"></img><p align="center"><strong>PHP</strong></p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" align="center" height="60" width="50"></img><p align="center"><strong>HTML5</strong></p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" align="center" height="60" width="50"></img><p align="center"><strong>CSS3</strong></p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" align="center" height="60" width="50"></img><p align="center"><strong>Javascript</strong></p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" align="center" height="60" width="50"></img><p align="center"><strong>PHP</strong></p></td>
     </tr>    
     <tr>         
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="center" height="50" width="40"></img><p align="center"><strong>React</strong></p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" align="center" height="50" width="40"></img><p align="center"><strong>Node</strong></p></td> 
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" align="center" height="50" width="40"></img><p align="center"><strong>Express</strong> </p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="50" width="40"></img><p align="center"><strong>MySQL</strong></p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="center" height="50" width="50"></img><p align="center"><strong>React</strong></p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" align="center" height="50" width="50"></img><p align="center"><strong>Node</strong></p></td> 
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" align="center" height="50" width="50"></img><p align="center"><strong>Express</strong> </p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="center" height="50" width="50"></img><p align="center"><strong>MySQL</strong></p></td>
     </tr>
     <tr>        
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" align="center" height="50" width="40"></img><p align="center"><strong>Python</strong></p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" align="center" height="50" width="40"></img><p align="center"><strong>Java</strong></p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" align="center" height="50" width="40"></img><p align="center"><strong>Firebase</strong> </p></td>
-                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" align="center" height="50" width="40"></img><p align="center"><strong>Mongo DB</strong> </p></td>                
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" align="center" height="50" width="50"></img><p align="center"><strong>Python</strong></p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" align="center" height="50" width="50"></img><p align="center"><strong>Java</strong></p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" align="center" height="50" width="50"></img><p align="center"><strong>Firebase</strong> </p></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" align="center" height="50" width="50"></img><p align="center"><strong>Mongo DB</strong> </p></td>                
     </tr>
   </tbody>
 </table>
