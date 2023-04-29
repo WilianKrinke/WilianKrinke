@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<p align="left"><h3>PT-BR</br>Olá, sou o Wilian, sou Analista e Desenvolvedor de Sistemas, ultimamente trabalhando com Desenvolvimento Full-Stack e Cybersegurança.</h3><strong>Estou terminando minha faculdade e estou disponível para trabalhos.<br><br>O que estou estudando agora? <br><br>Computação em nuvem, Desenvolvimento de Aplicativos e Gestão de Serviços de Tecnologia da Informação.</strong><br><br>EN-US<br>Hi, i'm wilian, i'm a Systems Analyst and Developer, lately working with full-stack development and cybersecurity. I'm finishing my college and I'm available for jobs.<br><br>What am I studying now?<br><br>Cloud Computing, Application Development and Information Technology Service Management.<br></p>
+<p align="left"><h3>Olá, sou o Wilian, sou Analista e Desenvolvedor de Sistemas, ultimamente trabalhando com Desenvolvimento Full-Stack e Cybersegurança.</h3><strong>Estou terminando minha faculdade e estou disponível para trabalhos.<br><br>O que estou estudando agora? <br><br>Computação em nuvem, Desenvolvimento de Aplicativos e Gestão de Serviços de Tecnologia da Informação.</strong><br><br>EN-US<br>Hi, i'm wilian, i'm a Systems Analyst and Developer, lately working with full-stack development and cybersecurity. I'm finishing my college and I'm available for jobs.<br><br>What am I studying now?<br><br>Cloud Computing, Application Development and Information Technology Service Management.<br></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WilianKrinke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="230" alt="stats graph"  />
