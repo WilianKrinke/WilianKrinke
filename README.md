@@ -10,6 +10,7 @@
 </div>
 
 <p align="left"><h3>Olá, sou o Wilian, sou Analista e Desenvolvedor de Sistemas, ultimamente trabalhando com Desenvolvimento Full-Stack e Cybersegurança.</h3><strong>Estou terminando minha faculdade e estou disponível para trabalhos.<br><br>O que estou estudando agora? <br><br>Desenvolvimento ADVPL,TLPP e Protheus<br><br></strong>
+<p>Sem computador há 1 dia</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WilianKrinke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="230" alt="stats graph"  />
